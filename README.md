@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://media.giphy.com/media/8SRqnPebX1H8lQy5YR/giphy.gif" width="50px" height="50px">
 <img align="right" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50px" height="50px">
 <p align="center">
-  <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300px" height="300px">
+  <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="250px" height="250px">
 </p>
 
 [![Zin Ko Winn's github stats](https://github-readme-stats.vercel.app/api?username=ZinKoWinn&show_icons=true&line_height=21&show_icons=true&theme=vue-dark)](https://github.com/ZinKoWinn/github-readme-stats)
