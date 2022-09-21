@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="250px" height="250px">
 </p>
 
+<!--
 [![Zin Ko Winn's github stats](https://github-readme-stats.vercel.app/api?username=ZinKoWinn&show_icons=true&line_height=21&show_icons=true&theme=vue-dark)](https://github.com/ZinKoWinn/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZinKoWinn&show_icons=true&layout=compact&theme=vue-dark)](https://github.com/ZinKoWinn/github-readme-stats)
-
+-->
 
 
 
